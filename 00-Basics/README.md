@@ -1,4 +1,4 @@
-## Sections
+## Description of the sections
 ### 1) Start from
   - 00
 ### 2) Numpy
