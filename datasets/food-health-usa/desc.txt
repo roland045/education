@@ -1,0 +1,1 @@
+Content and coverage: The food-health data includes data on the health status of the population in the USA. The dataset has N=7358 observations.  Key variables: blood pressure, fruit and vegetables consumed per day, household income, days per week of exercising.
